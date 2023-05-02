@@ -1,6 +1,6 @@
 # Const Dev Challenge 2022.2
 
-Submissão para o Const Dev Challenge 2022, a primeira edição do desafios de Data Science da Constellation Asset Management.
+Submissão premiada em segundo lugar da equipe GVCode para o Const Dev Challenge 2022, a primeira edição do desafios de Data Science da Constellation Asset Management.
 
 O Const Dev Challenge é um desafio de data science focado no mercado brasileiro de ações criado pela Constellation Asset Management. O foco do desafio é engajar estudantes universitários que se interessem por programação, data science e mercado financeiro.
 
