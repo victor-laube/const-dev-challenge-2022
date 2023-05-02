@@ -13,4 +13,4 @@ Kaggle: https://www.kaggle.com/competitions/const-dev-challenge-2022
 - forecast2.0.csv = predição da primeira fase
 - train.csv = base de treino
 - test.csv = base de teste
-
+- features = features utilizadas no modelo
